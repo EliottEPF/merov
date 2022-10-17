@@ -1,6 +1,6 @@
 # Merov Pass
 ![Alt text](assets/banner.png)
-| ![image](https://user-images.githubusercontent.com/115989485/196188371-6d527309-d8d0-4b8d-97cb-b5c3c5c5975f.png) | [![IMAGE_ALT](https://img.youtube.com/vi/Yz2P2K-6ClA/0.jpg)](https://www.youtube.com/watch?v=Yz2P2K-6ClA) |
+[![IMAGE_ALT](https://img.youtube.com/vi/Yz2P2K-6ClA/maxresdefault.jpg)](https://www.youtube.com/watch?v=Yz2P2K-6ClA)
 ## Playliste Merov interview : 
 https://www.youtube.com/watch?v=5gY5nqH09CA&list=PLYzS-0iFKsF6Z-w-Puo_NAdsZgaMdcm4G
 ## Merov Pass 🎫
@@ -44,7 +44,7 @@ Celui ci vous permet d'accéder à la plateforme d’investissement et d’utili
 
 -Dividendes sur le NFT en lui même
 
-[![IMAGE_ALT](https://img.youtube.com/vi/c7_7mXv6Yt8/0.jpg)](https://www.youtube.com/watch?v=c7_7mXv6Yt8)
+[![IMAGE_ALT](https://img.youtube.com/vi/c7_7mXv6Yt8/maxresdefault.jpg)](https://www.youtube.com/watch?v=c7_7mXv6Yt8)
 
 ## L’équipe 👨‍👨‍👦‍👦
 
