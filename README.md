@@ -2,7 +2,7 @@
 ![Alt text](assets/banner.png)
 ![image](https://user-images.githubusercontent.com/115989485/196188371-6d527309-d8d0-4b8d-97cb-b5c3c5c5975f.png)
 
-<iframe width="708" height="398" src="https://www.youtube.com/embed/Yz2P2K-6ClA?list=PLYzS-0iFKsF6Z-w-Puo_NAdsZgaMdcm4G" title="REVENUS PASSIFS La plateforme enfin dévoilée ! Trading crypto MEROV" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[![IMAGE_ALT](https://img.youtube.com/vi/Yz2P2K-6ClA/0.jpg)](https://www.youtube.com/watch?v=Yz2P2K-6ClA)
 ## Playliste Merov interview : 
 https://www.youtube.com/watch?v=5gY5nqH09CA&list=PLYzS-0iFKsF6Z-w-Puo_NAdsZgaMdcm4G
 ## Merov Pass 🎫
