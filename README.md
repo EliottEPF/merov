@@ -43,8 +43,7 @@ Celui ci vous permet d'accéder à la plateforme d’investissement et d’utili
 -Rapport de performances
 
 -Dividendes sur le NFT en lui même
-
-<video src='https://youtu.be/c7_7mXv6Yt8?list=PLYzS-0iFKsF6Z-w-Puo_NAdsZgaMdcm4G'></video>
+[![Watch the video]([https://youtu.be/vt5fpE0bzSY](https://youtu.be/c7_7mXv6Yt8?list=PLYzS-0iFKsF6Z-w-Puo_NAdsZgaMdcm4G))
 ## L’équipe 👨‍👨‍👦‍👦
 
 Ils sont une équipe **de traders natifs (français) en crypto-monnaies** avec 18 années d'expériences combinées à continuellement battre le marché.
