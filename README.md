@@ -75,7 +75,7 @@ Avec Merov, vous aurez la possibilité de:
 2. Envoyer 30,1 SOL sur votre wallet Phantom depuis vos plateformes (Binance, Kraken, FTX…) 
 
 3. Pour trouver votre adresse de réception Solana de votre wallet Phantom, cliquer sur la parenthèse à coté de “Wallet 1” et votre adresse sera automatiquement copiée. Ou bien, cliquer sur “Déposer”.
-<img src="Assets/3.png" width="200">
+<img src="assets/3.png" width="200">
 4. Une fois les 30,1 SOL sur votre Wallet, vous êtes prêt à acheter votre Pass. 
 
 5.  Cliquer sur ce lien pour accéder au site de Merov : https://zpr.io/pbkkQzV9gcHk
@@ -89,11 +89,11 @@ Avec Merov, vous aurez la possibilité de:
 9. Cliquer sur Phantom (votre wallet)
 ![Alt text](assets/9.png)
 10. Cliquer sur “Connecter”
-![Alt text](assets/10.png)
+<img src="assets/10.png" width="300">
 11. Cliquer sur “Mint”
 ![Alt text](assets/11.png)
 12. Approuver la transaction afin d’acheter votre Pass Merov 
-![Alt text](assets/12.png)
+<img src="assets/12.png" width="300">
 13. Quelques secondes plus tard, vous retrouvez votre Pass Merov dans votre collection NFT 
 ![Alt text](assets/13.png)
 # C'est tout bon ! Vous faites officiellement partie de l’aventure Merov.
