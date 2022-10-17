@@ -44,7 +44,7 @@ Celui ci vous permet d'accéder à la plateforme d’investissement et d’utili
 
 -Dividendes sur le NFT en lui même
 
-![[IMAGE_ALT](https://img.youtube.com/vi/c7_7mXv6Yt8/0.jpg)](https://www.youtube.com/watch?v=c7_7mXv6Yt8) |
+[![IMAGE_ALT](https://img.youtube.com/vi/c7_7mXv6Yt8/0.jpg)](https://www.youtube.com/watch?v=c7_7mXv6Yt8)
 
 ## L’équipe 👨‍👨‍👦‍👦
 
